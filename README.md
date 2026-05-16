@@ -2,7 +2,6 @@
 
 ## Chapters
 
-## my best 
 Each chapter has its own branch which contains all the commits for that chapter,
 so it has the state that corresponds to the _end_ of that chapter.
 If you want to try and code along with a chapter,
